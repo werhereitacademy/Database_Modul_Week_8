@@ -1,4 +1,4 @@
-# week_8
+# VIT2 Database-Module-Week8
 
 ## We expect you to receive these two certificates.
 
